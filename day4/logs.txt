@@ -1,0 +1,22 @@
+INPUT: calculate 2+3 and tell weather in mumbai
+PLAN: ['calculator', 'weather']
+OUTPUT: Result: 5
+Weather in Mumbai: 29.99°C, smoke
+----------------------------------------
+INPUT: find average of 2 and 3 and summarize the result
+PLAN: ['calculator', 'average', 'summarizer']
+OUTPUT: Result: 5
+Average: 2.5
+Summary: Result: 5 Average: 2
+----------------------------------------
+INPUT: find 2+6 and tell current time
+PLAN: ['calculator', 'time']
+OUTPUT: Result: 8
+Current Time: 13:06:03
+----------------------------------------
+INPUT: find 2+3 and tell current time and weather in nagpur
+PLAN: ['calculator', 'time', 'weather']
+OUTPUT: Result: 5
+Current Time: 13:06:18
+Weather in Nagpur: 34.01°C, haze
+----------------------------------------
