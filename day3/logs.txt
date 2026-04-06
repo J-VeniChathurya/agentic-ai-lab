@@ -66,3 +66,11 @@ INPUT: summarize the world today is witnessing multiple ongoing conflicts, with 
 TOOL: summarizer
 OUTPUT: Summary: the world today is witnessing multiple ongoing conflicts, with the most significant being the recent war involving the united states, israel, and iran, which began in early 2026 and has caused major geopolitical and economic disruptions, including rising oil prices and regional instability
 ----------------------------------------
+INPUT: add 2 and 3
+TOOL: calculator
+OUTPUT: Result: 5
+----------------------------------------
+INPUT: weather in mumbai
+TOOL: weather
+OUTPUT: Weather in Mumbai: 29.99°C, smoke
+----------------------------------------
