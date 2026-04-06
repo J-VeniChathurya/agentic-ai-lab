@@ -1,0 +1,68 @@
+INPUT: can you quickly calculate 45*12
+TOOL: calculator
+OUTPUT: Invalid calculation
+----------------------------------------
+INPUT: calculate 45+12
+TOOL: calculator
+OUTPUT: Result: 57
+----------------------------------------
+INPUT: calculate 45*12
+TOOL: calculator
+OUTPUT: Result: 540
+----------------------------------------
+INPUT: weather in mumbai
+TOOL: weather
+OUTPUT: Weather in Mumbai: 27.99°C, smoke
+----------------------------------------
+INPUT: current time
+TOOL: time
+OUTPUT: Current Time: 10:13:44
+----------------------------------------
+INPUT: summarize iam a good girl, tell me all teachers my dear brother
+TOOL: summarizer
+OUTPUT: Summary: iam a good girl, tell me all teachers my dear brother
+----------------------------------------
+INPUT: what is weather in nagpur
+TOOL: weather
+OUTPUT: Weather in Nagpur: 31.01°C, haze
+----------------------------------------
+INPUT: what is current time in usa
+TOOL: time
+OUTPUT: Current Time: 10:15:55
+----------------------------------------
+INPUT: what is current time in india
+TOOL: time
+OUTPUT: Current Time: 10:16:07
+----------------------------------------
+INPUT: can you summarize the world today is witnessing multiple ongoing conflicts, with the most significant being the recent war involving the united states, israel, and iran, which began in early 2026 and has caused major geopolitical and economic disruptions, including rising oil prices and regional instability. at the same time, the russia–ukraine war continues to cause widespread destruction and loss of life, while civil wars in countries like sudan and myanmar have led to severe humanitarian crises and mass displacement. these conflicts are increasingly interconnected, affecting global alliances, economies, and security, and together they reflect a world facing rising tensions, prolonged violence, and growing challenges to peace and stability.
+TOOL: summary
+OUTPUT: Tool not found
+----------------------------------------
+INPUT: can you summarize the world today is witnessing multiple ongoing conflicts, with the most significant being the recent war involving the united states, israel, and iran, which began in early 2026 and has caused major geopolitical and economic disruptions, including rising oil prices and regional instability. at the same time, the russia–ukraine war continues to cause widespread destruction and loss of life, while civil wars in countries like sudan and myanmar have led to severe humanitarian crises and mass displacement. these conflicts are increasingly interconnected, affecting global alliances, economies, and security, and together they reflect a world facing rising tensions, prolonged violence, and growing challenges to peace and stability.
+TOOL: summarizer
+OUTPUT: Summary: can you  the world today is witnessing multiple ongoing conflicts, with the most significant being the recent war involving the united states, israel, and iran, which began in early 2026 and has caused major geopolitical and economic disruptions, including rising oil prices and regional instability
+----------------------------------------
+INPUT: summarize the world today is witnessing multiple ongoing conflicts, with the most significant being the recent war involving the united states, israel, and iran, which began in early 2026 and has caused major geopolitical and economic disruptions, including rising oil prices and regional instability. at the same time, the russia–ukraine war continues to cause widespread destruction and loss of life, while civil wars in countries like sudan and myanmar have led to severe humanitarian crises and mass displacement. these conflicts are increasingly interconnected, affecting global alliances, economies, and security, and together they reflect a world facing rising tensions, prolonged violence, and growing challenges to peace and stability.
+TOOL: summarizer
+OUTPUT: Summary: the world today is witnessing multiple ongoing conflicts, with the most significant being the recent war involving the united states, israel, and iran, which began in early 2026 and has caused major geopolitical and economic disruptions, including rising oil prices and regional instability
+----------------------------------------
+INPUT: add 2 and 3
+TOOL: calculator
+OUTPUT: Result: 5
+----------------------------------------
+INPUT: can you quickly calculate 45*13
+TOOL: calculator
+OUTPUT: Result: 585
+----------------------------------------
+INPUT: what is weather in hyderabad
+TOOL: weather
+OUTPUT: Weather in Hyderabad: 30.23°C, haze
+----------------------------------------
+INPUT: what time is it now
+TOOL: time
+OUTPUT: Current Time: 10:19:07
+----------------------------------------
+INPUT: summarize the world today is witnessing multiple ongoing conflicts, with the most significant being the recent war involving the united states, israel, and iran, which began in early 2026 and has caused major geopolitical and economic disruptions, including rising oil prices and regional instability. at the same time, the russia–ukraine war continues to cause widespread destruction and loss of life, while civil wars in countries like sudan and myanmar have led to severe humanitarian crises and mass displacement. these conflicts are increasingly interconnected, affecting global alliances, economies, and security, and together they reflect a world facing rising tensions, prolonged violence, and growing challenges to peace and stability.
+TOOL: summarizer
+OUTPUT: Summary: the world today is witnessing multiple ongoing conflicts, with the most significant being the recent war involving the united states, israel, and iran, which began in early 2026 and has caused major geopolitical and economic disruptions, including rising oil prices and regional instability
+----------------------------------------
