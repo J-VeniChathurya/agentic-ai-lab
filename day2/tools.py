@@ -34,7 +34,7 @@ def weather_tool(user_input):
         API_KEY = os.getenv("OPENWEATHER_API_KEY")
         
 
-        # 🔥 Better city extraction
+        # 🔥= Better city extraction
         user_input = user_input.lower()
 
         if "in" in user_input:
